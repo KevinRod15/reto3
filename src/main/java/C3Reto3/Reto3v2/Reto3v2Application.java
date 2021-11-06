@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 
 @EnableConfigurationProperties
-@EntityScan(basePackages = {"C3Reto3.Reto3v2.modelo"}) 
+@EntityScan(basePackages = {"C3Reto3.Reto3v2.Models"}) 
 @SpringBootApplication
 public class Reto3v2Application {
 
